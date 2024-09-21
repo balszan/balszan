@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karolina Balszan</h1>
 <h3 align="center">Full stack software engineer based in London</h3>
 
-- 👨‍💻 All of my projects are available at [https://balszan.dev](https://balszan.dev)
+- 👨‍💻 My projects are available at [https://balszan.dev](https://balszan.dev)
 
 - 📫 How to reach me **kbalszan@gmail.com**
 
