@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karolina</h1>
 <h3 align="center">A software engineer based in London</h3>
 
-- 👨‍💻 You can view my portfolio here: [https://balszan.dev](https://balszan.dev)
-
 - 📫 Get in touch: **kbalszan@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
